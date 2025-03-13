@@ -1,0 +1,4 @@
+Flask==2.3.3
+pymongo==4.6.2
+flask-limiter==3.5.1
+gunicorn==21.0.0
